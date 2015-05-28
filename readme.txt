@@ -1,1 +1,1 @@
-This is the folder for OpenCV practice. 
+This is the folder for OpenCV practice.     
